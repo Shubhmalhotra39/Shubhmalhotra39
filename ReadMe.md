@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a very interesting Law based website<br>👯 I’m looking to collaborate on different website<br>🌱 I’m currently learning React. Js <br>⚡ Fun fact I can code with listening music for about a day
+👯 I’m looking to collaborate on different website<br>🌱 I’m currently learning React. Js <br>⚡ Fun fact I can code with listening music for about a day
 
 
 ## 🌐 Socials:
